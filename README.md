@@ -14,6 +14,7 @@
 * [二叉树遍历](https://github.com/Lirx-Xin/LirxdeBlog/issues/7)
 * [排序算法](https://github.com/Lirx-Xin/LirxdeBlog/issues/8)
 * [深拷贝](https://github.com/Lirx-Xin/LirxdeBlog/issues/12)
+* [刷题笔记](https://github.com/Lirx-Xin/LirxdeBlog/issues/14)
 
 ## React
 * [React函数式组件&&React Hook开发中的性能优化](https://github.com/Lirx-Xin/LirxdeBlog/issues/9)
