@@ -8,6 +8,7 @@
 * [BFC简单记录](https://github.com/Lirx-Xin/LirxdeBlog/issues/5)
 * [行高line-height导致的字体垂直居中问题](https://github.com/Lirx-Xin/LirxdeBlog/issues/6)
 * [移动端适配方案](https://github.com/Lirx-Xin/LirxdeBlog/issues/13)
+* [git cherry-pick](https://github.com/Lirx-Xin/LirxdeBlog/issues/15)
 
 ## Javascript
 * [es5与es6以及Typescript中类的创建与继承](https://github.com/Lirx-Xin/LirxdeBlog/issues/4)
