@@ -1,9 +1,20 @@
 # LirxdeBlog
 随便记录一下
 
-## [2023-10-26日开始执行学习计划](https://github.com/Lirx-Xin/LirxdeBlog/issues/21)
+## 2023-10-26日开始执行学习计划（[学习记录](https://github.com/Lirx-Xin/LirxdeBlog/issues/21)）
+### 周一-周五
+* 加班时 21.30-22.30 英语口语学习
+* 不加班时，增加 19.00-20.00 前端复习/完善markdown工具
+### 周六-周日
+* 8.00 起床
+* 8.30-9.30 英语口语学习
+* 10.00-11.00 Java学习
+* 14.00-15.00 Java学习
+* 15.30-16.30 前端复习
+* 19.00-20.00 计算机网络/数据结构复习
+* 周六加班时 19.00-20.00 前端复习/完善markdown工具
 
-## [实现一个在线markdown工具](https://github.com/Lirx-Xin/LirxdeBlog/issues/20)
+### [实现一个在线markdown工具](https://github.com/Lirx-Xin/LirxdeBlog/issues/20)
 
 ## 随笔
 * [DOM添加，删除，插入的各方法](https://github.com/Lirx-Xin/LirxdeBlog/issues/2)
