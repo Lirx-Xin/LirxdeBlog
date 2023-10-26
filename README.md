@@ -1,7 +1,9 @@
 # LirxdeBlog
 随便记录一下
 
-## [实现一个在线markdown工具](https://github.com/Lirx-Xin/LirxdeBlog/issues/19)
+## [2023-10-26日开始执行学习计划](https://github.com/Lirx-Xin/LirxdeBlog/issues/21)
+
+## [实现一个在线markdown工具](https://github.com/Lirx-Xin/LirxdeBlog/issues/20)
 
 ## 随笔
 * [DOM添加，删除，插入的各方法](https://github.com/Lirx-Xin/LirxdeBlog/issues/2)
